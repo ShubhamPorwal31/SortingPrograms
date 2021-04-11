@@ -19,8 +19,6 @@ public class Sorting {
 			}
 			System.out.println(a[i]);
 		}
-		// TODO Auto-generated method stub
-
 	}
 
 }
